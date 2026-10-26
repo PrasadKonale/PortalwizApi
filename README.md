@@ -1,5 +1,6 @@
 ## 📹 Video Demonstration
-[Click here to view/download the Demo Video](./PortalWiz%20Demo%20.mov)
+
+<video src="https://github.com/PrasadKonale/PortalwizApi/raw/main/demo.mp4" controls width="100%"></video>
 
 # Document AI Backend
 
