@@ -1,6 +1,9 @@
 ## 📹 Video Demonstration
 
-<video src="https://github.com/PrasadKonale/PortalwizApi/raw/main/demo.mp4" controls width="100%"></video>
+[![Watch Demo Video](https://img.shields.io/badge/Watch%20Demo%20Video-Google%20Drive-blue?style=for-the-badge&logo=googledrive)](https://drive.google.com/file/d/1tSOJFIaVnqEvN-I2xbfK8i2jP77Ow7VN/view?usp=sharing)
+
+> 🔗 **Direct Link:** [Click here to watch the Video Demonstration on Google Drive](https://drive.google.com/file/d/1tSOJFIaVnqEvN-I2xbfK8i2jP77Ow7VN/view?usp=sharing)
+
 
 # Document AI Backend
 
