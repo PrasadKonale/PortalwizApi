@@ -1,3 +1,6 @@
+## 📹 Video Demonstration
+[Click here to view/download the Demo Video](./PortalWiz%20Demo%20.mov)
+
 # Document AI Backend
 
 A RESTful backend service built with FastAPI, OpenCV, and EasyOCR that accepts identity card images, processes document boundaries, extracts structured fields (Full Name, Document Number, Date of Birth, Expiry Date), crops face thumbnails, and stores extracted records in SQLite.
